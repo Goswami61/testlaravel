@@ -1,6 +1,6 @@
 <x-app-layout>
   
-    <div class="container-fluid p-0">
+    <div class="container-fluid pt-5">
         <div id="slider" class="carousel slide" data-bs-ride="carousel">
 
             <div class="carousel-inner">

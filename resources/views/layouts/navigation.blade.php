@@ -1,4 +1,4 @@
-<nav class="bg-dark ">
+<nav class="bg-dark fixed w-full z-50">
     <div class="d-flex justify-content-between align-items-center container">
         <div>
             <a href="{{ route('dashboard') }}">
